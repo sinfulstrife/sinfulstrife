@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sinfulstrife
 - 👀 I’m interested in video games, books, and tea!
-- 🌱 I’m currently getting reacquainted with C#, while expanding my knowledge and learning the full stack.
+- 🌱 I’m currently getting reacquainted with C languages, while expanding my knowledge and learning the full stack.
 - 💞️ I’m looking to collaborate on any projects! I'm always open to learn!
 - 📫 How to reach me: Discord: sinfulstrife
 - 😄 Pronouns: she/her
